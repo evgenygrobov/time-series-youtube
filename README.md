@@ -24,7 +24,7 @@ It seems there is a pattern in hourly video releases within a week: new video pu
 
 If this assumption is true I could see a strong seasonal component to the data. 
 **Here we can see Tue, Wed, Thur, Fr are highlighted**
-![daily release workday highlighted]()
+![daily release workday highlighted](https://github.com/evgenygrobov/time-series-youtube/blob/main/images/weekday_highlited.png)
 
 ## Here I determine if the data is stationary
 ![image of stationarity](https://github.com/evgenygrobov/time-series-youtube/blob/main/images/stationarity_7periods.png)
